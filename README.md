@@ -8,6 +8,7 @@ Website tested: https://www.saucedemo.com
 Purpose: Practice manual QA testing of login functionality and basic shopping cart behavior.
 
 Test Cases
+
 TC01 – Login with valid credentials
 Expected result: User successfully logs into the inventory page.
 
